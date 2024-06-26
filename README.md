@@ -33,6 +33,7 @@
     <img src="https://skillicons.dev/icons?i=git,angular,androidstudio,azure,eclipse,idea,kotlin,mysql,postman,css,discord,docker,postgres,figma,firebase,github,html,java,js,linux,materialui,mongodb,mysql,nodejs,postman,py,react,tailwind,ts,vscode&perline=14" />
   </a>
 </p>
+<br>
 
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Marulanda921&theme=dark&hide_border=true"/>
