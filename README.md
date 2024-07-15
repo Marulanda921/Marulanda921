@@ -30,7 +30,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,java,js,nodejs,py,react,tailwind,ts,spring,kotlin,css,androidstudio,eclipse,idea,discord,figma,firebase,github,html,vscode,postman,azure,docker,materialui,postman,mysql,postgres,mongodb,linux,windows&perline=14" />
+    <img src="https://skillicons.dev/icons?i=angular,java,js,nodejs,py,react,tailwind,ts,spring,kotlin,css,androidstudio,eclipse,idea,discord,figma,firebase,github,html,vscode,postman,azure,docker,materialui,mysql,postgres,mongodb,linux,windows&perline=14" />
   </a>
 </p>
 <br>
